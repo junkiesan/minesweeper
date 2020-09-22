@@ -1,3 +1,13 @@
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-image: url(https://images.pexels.com/photos/1293261/pexels-photo-1293261.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+}
+
+table {
+  margin-top: 50px;
+}
 td.unopened {
   background: url('img/unopened.svg');
   cursor: pointer;
